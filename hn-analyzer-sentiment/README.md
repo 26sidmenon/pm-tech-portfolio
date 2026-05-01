@@ -217,6 +217,3 @@ The feature works, but more importantly, **I understand how it works.**
 ```
 
 ---
-
-**Now save the file and push:**
-```
